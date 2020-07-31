@@ -1,5 +1,3 @@
-# ACGaming
-
 ![Logo](https://img.webme.com/pic/a/acgamings-modpacks/ACGaming_1_klein.png)
 
 **Herzlich Willkommen auf meiner Website!**
@@ -10,26 +8,25 @@ Außerdem würde ich mich freuen, dich auf unserem [Discord-Server](https://disc
 
 **Viel Spaß beim Spielen wünscht *ACGaming***
 
-## Modpacks
+# Modpacks
 
-### Twitch
+## Twitch
 
-#### Öffentliche Modpacks
+### Öffentliche Modpacks
 
 * [CurseForge](https://www.curseforge.com/members/acgaming56/projects)
 
-#### Private Modpacks
+### Private Modpacks
 
 * [Innovative Reality 3 Remake](https://drive.google.com/open?id=1jauIZnoGRuG96x5qHLNxS4gxZmBtC6iT)
 * [TerraFirmaCraft Reditus 2](https://drive.google.com/open?id=1rhHwEoSaY2BaAznoKvB1i9l-2hJhCLVL)
 * [Kureijī 3](https://drive.google.com/open?id=1c-NyaoE5JNhXFy7FEiHp4NTEAzWvqx5p)
 
 **HINWEIS:**
-
 Private Modpacks müssen über den Twitch Launcher importiert werden!
 Eine Anleitung hierzu gibt es [hier](https://help.twitch.tv/s/article/guide-to-modpacks?language=de) unter dem Punkt *Importing Modpacks*.
 
-### Technic
+## Technic
 
 * [Innovative Reality](http://www.technicpack.net/modpack/innovative-reality.499724)
 * [Innovative Reality 2](http://www.technicpack.net/modpack/ir2-acg-1710.559721)
@@ -42,16 +39,32 @@ Eine Anleitung hierzu gibt es [hier](https://help.twitch.tv/s/article/guide-to-m
 * [Staffel 2](http://www.technicpack.net/modpack/staffel-2.826985)
 * [The Great Thaumpack](http://www.technicpack.net/modpack/the-great-thaumpack.889949)
 
-### MultiMC
+## MultiMC
 
 * [Innovative Reality 3](http://www.dropbox.com/s/tqltbjnqzayhmnk/InnovativeReality3_v108.zip?dl=1)
 
-## Ressourcenpakete
+# Ressourcenpakete
 
-### MeineKraft Fanmade
+## MeineKraft Fanmade
 
-### ACGamings Soundpack
+MeineKraft ist ein realistisch gehaltenes 64x-Ressourcenpaket für Minecraft und enthält unter anderem fotorealistische und cartoonartige Elemente.
 
-### Spackenmobs
+Die Texturen, die ursprünglich von [Honeyball](https://www.youtube.com/user/HoneyballLP) erstellt wurden, wurden in der Vergangenheit von vielen Fans dieses Packs entwickelt und aktualisiert und werden von der Community am Leben gehalten, nachdem es ursprünglich nach Minecraft 1.4 eingestellt wurde.
 
-### IR5 Zusatzpaket
+Derzeit sind wir ein unabhängiges Team von drei Personen (**Loreon**, **Merlinmo** und **ACGaming**). Wir erstellen und aktualisieren Texturen für aktuelle Versionen von Minecraft und beschäftigen uns auch mit Mod-Support-Texturen.
+
+Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life in the Woods**-Modpack für 1.7.10!
+
+[Erfahre mehr auf CurseForge!](https://www.curseforge.com/minecraft/texture-packs/meinekraft-fanmade)
+
+## ACGamings Soundpack
+
+* [ACGamings Soundpack 2016 (1.7.10)](https://www.dropbox.com/s/ld6vlxxbkj7u583/ACGamings%20Soundpack%202016%20v1.1.zip?dl=1)
+* [ACGamings Soundpack 2018 (1.12.2)](https://drive.google.com/open?id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i)
+
+## Spackenmobs
+
+* [Spackenmobs (1.12.2)](https://drive.google.com/open?id=1e0bsfmRlO66Ft8qjBLYI0VI5snu-zBqe)
+
+## IR5 Zusatzpaket
+* [IR5 Zusatzpaket (1.10.2)](https://drive.google.com/open?id=1tcuLMzvjlR7MeX8YpjJsCXngk1B1saNM)
