@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# ACGaming
 
-You can use the [editor on GitHub](https://github.com/ACGaming/acgaming.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Herzlich Willkommen auf meiner Website!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hier findest du alle Modpacks und weitere herunterladbare Inhalte von mir, die ich erstellt und veröffentlicht habe.
+Außerdem würde ich mich freuen, dich auf unserem Discord-Server begrüßen zu dürfen! Dort bleibst du immer auf dem neuesten Stand und du kannst dich auch mit anderen Zuschauern austauschen.
+↪ https://discord.gg/qVmBXAM
 
-### Markdown
+**Viel Spaß beim Spielen wünscht *ACGaming***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Modpacks
 
-```markdown
-Syntax highlighted code block
+### Twitch
 
-# Header 1
-## Header 2
-### Header 3
+### Technic
 
-- Bulleted
-- List
+### MultiMC
 
-1. Numbered
-2. List
+## Ressourcenpakete
 
-**Bold** and _Italic_ and `Code` text
+### MeineKraft Fanmade
 
-[Link](url) and ![Image](src)
-```
+### ACGamings Soundpack
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Spackenmobs
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACGaming/acgaming.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### IR5 Zusatzpaket
