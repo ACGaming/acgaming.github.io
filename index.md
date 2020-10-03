@@ -11,7 +11,7 @@ Außerdem würde ich mich freuen, dich auf unserem **[Discord-Server](https://di
 
 # Modpacks
 
-## Twitch
+## ![CurseForge](https://i.imgur.com/4kywS6M.png)
 
 ### Öffentliche Modpacks
 
@@ -38,10 +38,10 @@ Weitere Projekte auf [CurseForge](https://www.curseforge.com/members/acgaming56/
 * [Kureijī 3](https://drive.google.com/uc?export=download&id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i1c-NyaoE5JNhXFy7FEiHp4NTEAzWvqx5p)
 
 **HINWEIS:**
-Private Modpacks müssen über den Twitch Launcher importiert werden!  
+Private Modpacks müssen über den Twitch Launcher oder vergleichbare Launcher importiert werden!  
 Eine Anleitung dazu gibt es **[hier](https://help.twitch.tv/s/article/guide-to-modpacks?language=de%29#Import)** unter dem Punkt *Importing Modpacks*.
 
-## Technic
+## ![Technic Launcher](https://i.imgur.com/ykBrKAv.png)
 
 * [Glow](http://www.technicpack.net/modpack/mcglowpackacg.579063)
 * [Glow 2](http://www.technicpack.net/modpack/glow2.825284)
@@ -54,7 +54,7 @@ Eine Anleitung dazu gibt es **[hier](https://help.twitch.tv/s/article/guide-to-m
 * [UltiPack 3](http://www.technicpack.net/modpack/acgamings-ultipack-3.1016364)
 * [UltiPack 4](http://www.technicpack.net/modpack/acgamings-ultipack-4.1445188)
 
-## MultiMC
+## ![MultiMC](https://i.imgur.com/xBzn2Ry.png)
 
 * [Innovative Reality 3](http://www.dropbox.com/s/tqltbjnqzayhmnk/InnovativeReality3_v108.zip?dl=1)
 
