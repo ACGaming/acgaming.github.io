@@ -25,7 +25,7 @@ Außerdem würde ich mich freuen, dich auf unserem **[Discord-Server](https://di
 * [PrioR](https://www.curseforge.com/minecraft/modpacks/prior)
 * [Skyland III](https://www.curseforge.com/minecraft/modpacks/skyland-iii)
 * [TerraFirmaCraft Reditus](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reditus)
-* *[TerraFirmaCraft Reditus 2](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reditus-2)*
+* [TerraFirmaCraft Reditus 2](https://www.curseforge.com/minecraft/modpacks/terrafirmacraft-reditus-2)
 * [The ExPetrum Pack](https://www.curseforge.com/minecraft/modpacks/tepp)
 * [Total RPG II](https://www.curseforge.com/minecraft/modpacks/total-rpg-ii)
 * [Total RPG III](https://www.curseforge.com/minecraft/modpacks/total-rpg-iii)
@@ -36,7 +36,6 @@ Weitere Projekte auf [CurseForge](https://www.curseforge.com/members/acgaming56/
 
 * [Innovative Reality 3 Remake](https://drive.google.com/uc?export=download&id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i1jauIZnoGRuG96x5qHLNxS4gxZmBtC6iT)
 * [Kureijī 3](https://drive.google.com/uc?export=download&id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i1c-NyaoE5JNhXFy7FEiHp4NTEAzWvqx5p)
-* [TerraFirmaCraft Reditus 2](https://drive.google.com/uc?export=download&id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i1rhHwEoSaY2BaAznoKvB1i9l-2hJhCLVL)
 
 **HINWEIS:**
 Private Modpacks müssen über den Twitch Launcher importiert werden!  
