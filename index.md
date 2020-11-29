@@ -81,7 +81,12 @@ Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life i
 * [Spackenmobs (1.12.2)](https://drive.google.com/uc?export=download&id=1e0bsfmRlO66Ft8qjBLYI0VI5snu-zBqe)
 
 ## IR5 Zusatzpaket
+
 * [IR5 Zusatzpaket (1.10.2)](https://drive.google.com/uc?export=download&id=1tcuLMzvjlR7MeX8YpjJsCXngk1B1saNM)
+
+## Macaw's Mods for TFC
+
+* [Macaw's Mods for TFC](https://www.curseforge.com/minecraft/texture-packs/macaws-mods-tfc)
 
 ---
 
