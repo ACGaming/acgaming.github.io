@@ -92,5 +92,5 @@ Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life i
 
 # Mods
 
-* [Smava Creepers (1.12.2)](https://www.curseforge.com/minecraft/mc-mods/smava)
-* [Spackenmobs (1.12.2)](https://www.curseforge.com/minecraft/mc-mods/spackenmobs)
+* [Smava Creepers](https://www.curseforge.com/minecraft/mc-mods/smava)
+* [Spackenmobs](https://www.curseforge.com/minecraft/mc-mods/spackenmobs)
