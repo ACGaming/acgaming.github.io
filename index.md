@@ -89,6 +89,10 @@ Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life i
 
 * [Macaw's Mods for TFC](https://www.curseforge.com/minecraft/texture-packs/macaws-mods-tfc)
 
+## My Little Splashes
+
+* [My Little Splashes](https://www.curseforge.com/minecraft/texture-packs/my-little-splashes)
+
 ---
 
 # Mods
