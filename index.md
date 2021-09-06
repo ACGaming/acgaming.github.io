@@ -2,7 +2,8 @@
 
 **Herzlich Willkommen auf meiner Website!**
 
-Hier findest du alle Modpacks und weitere herunterladbare Inhalte, die ich erstellt und veröffentlicht habe.  
+Hier findest du alle Modpacks und weitere herunterladbare Inhalte, die ich erstellt und veröffentlicht habe.
+
 Außerdem würde ich mich freuen, dich auf unserem **[Discord-Server](https://discordapp.com/invite/qVmBXAM)** begrüßen zu dürfen! Dort bleibst du immer auf dem neuesten Stand und kannst dich mit anderen Zuschauern und mir austauschen.
 
 **Viel Spaß beim Spielen wünscht *ACGaming***
@@ -77,25 +78,35 @@ Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life i
 * [ACGamings Soundpack 2018 (1.12)](https://drive.google.com/uc?export=download&id=1mJm35lPJ7caKMC-OPEwjNYy55qQzIS7i)
 * [ACGamings Soundpack 2021 (1.16)](https://drive.google.com/uc?export=download&id=1MeybMT8pHzEk-vcOM9HC3ISQcPZiE0Bw)
 
-## Spackenmobs
-
-* [Spackenmobs (1.12)](https://drive.google.com/uc?export=download&id=1e0bsfmRlO66Ft8qjBLYI0VI5snu-zBqe)
-
-## IR5 Zusatzpaket
+## Sonstige
 
 * [IR5 Zusatzpaket (1.10)](https://drive.google.com/uc?export=download&id=1tcuLMzvjlR7MeX8YpjJsCXngk1B1saNM)
-
-## Macaw's Mods for TFC
-
 * [Macaw's Mods for TFC](https://www.curseforge.com/minecraft/texture-packs/macaws-mods-tfc)
-
-## My Little Splashes
-
 * [My Little Splashes](https://www.curseforge.com/minecraft/texture-packs/my-little-splashes)
+* [Spackenmobs (1.12)](https://drive.google.com/uc?export=download&id=1e0bsfmRlO66Ft8qjBLYI0VI5snu-zBqe)
 
 ---
 
 # Mods
 
+## 1.12
+
+* [AstikorCarts for TFC](https://www.curseforge.com/minecraft/mc-mods/deadly-monsters-patched)
+* [Binkers' Bonstruct](https://www.curseforge.com/minecraft/mc-mods/binkers-bonstruct)
+* [Deadly Monsters Patched](https://www.curseforge.com/minecraft/mc-mods/deadly-monsters-patched)
+* [Horse Power for TFC](https://www.curseforge.com/minecraft/mc-mods/horse-power-tfc)
+* [Hot or Not +](https://www.curseforge.com/minecraft/mc-mods/hot-or-not-plus)
+* [Macaw's Furniture for TFC](https://www.curseforge.com/minecraft/mc-mods/macaws-furniture-tfc)
+* [RPGLoot Patched](https://www.curseforge.com/minecraft/mc-mods/rpgloot-patched)
 * [Smava Creepers](https://www.curseforge.com/minecraft/mc-mods/smava)
 * [Spackenmobs](https://www.curseforge.com/minecraft/mc-mods/spackenmobs)
+* [TFC Paths](https://www.curseforge.com/minecraft/mc-mods/tfc-paths)
+
+## 1.16
+
+* [Smava Creepers](https://www.curseforge.com/minecraft/mc-mods/smava)
+* [Spackenmobs](https://www.curseforge.com/minecraft/mc-mods/spackenmobs)
+
+## 1.17
+
+* [Zwieback](https://www.curseforge.com/minecraft/mc-mods/zwieback)
