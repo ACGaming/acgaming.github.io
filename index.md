@@ -1,8 +1,8 @@
 ![Logo](https://img.webme.com/pic/a/acgamings-modpacks/ACGaming_1_klein.png)
 
-**Herzlich Willkommen auf meiner Website!**
+**Herzlich willkommen auf meiner Website!**
 
-Hier findest du alle Modpacks und weitere herunterladbare Inhalte, die ich erstellt und veröffentlicht habe.
+Hier findest du alle Modpacks, Mods und weitere herunterladbare Inhalte, die ich erstellt und veröffentlicht habe.
 
 Außerdem würde ich mich freuen, dich auf unserem **[Discord-Server](https://discordapp.com/invite/qVmBXAM)** begrüßen zu dürfen! Dort bleibst du immer auf dem neuesten Stand und kannst dich mit anderen Zuschauern und mir austauschen.
 
@@ -106,7 +106,9 @@ Unser bekanntestes Projekt ist das Mod-Support-Ressourcenpaket für das **Life i
 
 * [Smava Creepers](https://www.curseforge.com/minecraft/mc-mods/smava)
 * [Spackenmobs](https://www.curseforge.com/minecraft/mc-mods/spackenmobs)
+* [Spooky Scary Jockeys](https://www.curseforge.com/minecraft/mc-mods/jockeys)
 
 ## 1.17
 
+* [Spooky Scary Jockeys](https://www.curseforge.com/minecraft/mc-mods/jockeys)
 * [Zwieback](https://www.curseforge.com/minecraft/mc-mods/zwieback)
